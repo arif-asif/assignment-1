@@ -1,0 +1,49 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+.face{
+    background-color: #E554731A;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+head{
+    border: 0px;
+
+}
+.title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: normal;
+    margin: 197px 97px 32px 240px;
+}
+.description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0px 171px 32px 240px;
+}
+.bannerflower{
+    width: 635px;
+    height: 800px;
+    margin-right: 240px;
+    margin-bottom: -5px;
+    margin-top: 50px;
+}
+button{
+    padding: 20px 43px;
+    border: 0px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 240px;
+}
