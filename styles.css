@@ -47,3 +47,20 @@ button{
     line-height: normal;
     margin-left: 240px;
 }
+.section2{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 210px;
+    margin-bottom: 24px;
+}
+.section2text{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0px 640px 24px 640px;
+}
