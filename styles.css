@@ -213,3 +213,59 @@ head{
     align-items: center;
     margin: 6px 228px;
 }
+.call2a{
+    margin: 150px 240px;
+    background-image: url('banner.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 4867px;
+    border-radius: 8px;
+    text-align: center;
+}
+.call2ahead{
+    padding-top: 122px;
+    margin-bottom: 0px;
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+.call2adescription{
+    padding-top: 0px;
+    padding-bottom: 40px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.mailbox{
+    padding-left: 22px;
+    width: 700px;
+    height: 64px;
+    border: 0px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.button3{
+    padding: 20px 43px;
+    border: 0px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 20px;
+}
+.boxandbutton{
+    display: flex;
+    justify-content: center;
+}
