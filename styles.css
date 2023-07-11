@@ -114,3 +114,24 @@ button{
     text-decoration-line: underline;
     margin-top: 32px;
 }
+.section3{
+    height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 200px 240px 200px 240px;
+}
+.section3element{
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    text-align: center;
+}
+.section3text{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+}
