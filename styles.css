@@ -35,7 +35,7 @@ head{
     margin-bottom: -5px;
     margin-top: 50px;
 }
-button{
+.button1{
     padding: 20px 43px;
     border: 0px;
     border-radius: 8px;
@@ -134,4 +134,54 @@ button{
     font-size: 20px;
     font-weight: 400;
     line-height: 35px;
+}
+.section4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    
+}
+.section4text{
+    margin-left: 395px;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    width: 594px;
+
+}
+.button2{
+    padding: 20px 43px;
+    border: 0px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.section4image{
+    width: 318px;
+    height: 420px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 429px;
+}
+.section4head{
+    color: #272727;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.section4description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 0px;
+}
+.themecolour{
+    color: #E55473;
 }
